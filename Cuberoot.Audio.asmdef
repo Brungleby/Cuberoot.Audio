@@ -1,0 +1,16 @@
+{
+    "name": "Cuberoot.Audio",
+    "rootNamespace": "Cuberoot.Audio",
+    "references": [
+        "GUID:6bfa798afe97fc34cba5b58f56d37c18"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
